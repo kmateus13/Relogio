@@ -1,0 +1,61 @@
+@import url('http://fonts.cdnfonts.com/css/gotham-bold');
+@import url('http://fonts.cdnfonts.com/css/fontastique');
+@import url('http://fonts.cdnfonts.com/css/aquatico');
+
+
+*{
+    margin: 0;
+    padding: 0;                                
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    display:flex;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+}
+
+section{
+    border-radius: 20px;
+    margin: auto;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 5px 5px 10px  rgba(0, 0, 0, 0.699) ;
+    color: white;
+}
+
+
+div#cima{
+    flex-direction: column;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Gotham Bold', sans-serif;
+}
+
+div#dia{
+    font-size: calc(10px + 2vw);
+    font-family: 'Aquatico', sans-serif;
+}
+div#data{
+    font-size: calc(10px + 2vw);
+    font-family: 'Aquatico', sans-serif;
+    
+                                                
+}
+
+div#frase{
+    font-size: calc(10px + 4vw);
+    font-family: 'Aquatico', sans-serif;
+}
+
+div#hora{
+    font-size: calc(12px + 20vw);
+    font-family: 'Aquatico', sans-serif;
+     
+}
+
+

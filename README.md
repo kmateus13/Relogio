@@ -1,5 +1,7 @@
 <h1>Relógio Digital</h1>
 Este é um projeto de relógio digital que muda a saudação e o background de acordo com a hora do dia.
+<br>
+Para acessar o projeto, clique <a href="https://daycycle.netlify.app">aqui</a>.
 
 <h2>Instalação</h2>
 Não é necessário instalar nada. Basta baixar ou clonar o repositório e abrir o arquivo index.html no seu navegador.
